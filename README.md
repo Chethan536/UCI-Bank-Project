@@ -30,13 +30,18 @@ By analyzing this data, banks can make better marketing decisions, optimize call
 
 # Tools and Techniques
 Python Libraries: Pandas, NumPy, Matplotlib, Seaborn
+
 Data Cleaning: Handled missing values, corrected column names, and removed duplicates for accurate analysis.
+
 Data Visualization: Created engaging and clear visuals like pie charts, bar charts, and line graphs to showcase findings effectively.
 
 # Key Insights
 A small portion of married individuals is unemployed, which can be a potential focus group for financial products.
+
 Customers who subscribed to term deposits have distinct average ages, aiding in demographic-based targeting.
+
 Monthly balance trends and call durations reveal seasonal patterns that align with campaign effectiveness.
+
 Marital status distributions across education levels provide insights into lifestyle and financial behavior differences.
 
 
